@@ -11,15 +11,7 @@ Pipline:
 Example of our dataset：
 
 
-1.
-
-https://github.com/user-attachments/assets/f38ec6cd-0fe2-4358-bbb3-5bfe8162543c
-
-
-2.
-
-
-https://github.com/user-attachments/assets/40f10fd9-0aab-4676-adcc-bc1b45d46bff
+https://github.com/user-attachments/assets/b661349d-4197-48b9-8435-166574fa8c32
 
 
 Dataset link： https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_connect_ust_hk/EqLZeILwp2pMgsB1QBEJG3ABbXxz2m2SgWvMcvFxOlluKw?e=gRzCwl
@@ -39,8 +31,8 @@ https://github.com/user-attachments/assets/806cd29c-18d5-4841-9b91-ea5cb4261957
 
 
 
-https://github.com/user-attachments/assets/a78f6636-51cd-4db7-a586-a3e75d0c8be8
 
+https://github.com/user-attachments/assets/3dc4773a-9fc4-44ff-97ce-a5f154a7fa1d
 
 
 
