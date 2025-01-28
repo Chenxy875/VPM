@@ -28,15 +28,28 @@ Dataset link： https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_co
 
 DEMO:
 1. The obscuration of the wooden board and Self-occlusio.
-https://github.com/user-attachments/assets/aff9a9f0-95bc-46fd-84d5-8d2ad994aa55
+
+
+https://github.com/user-attachments/assets/806cd29c-18d5-4841-9b91-ea5cb4261957
+
 
 
 2. Self-occlusion and out-of-field-of-view.
-https://github.com/user-attachments/assets/495a9095-1229-4b82-b8ae-4d4718604333
+
+
+
+
+https://github.com/user-attachments/assets/a78f6636-51cd-4db7-a586-a3e75d0c8be8
+
+
+
 
 
 3. The obstruction by pipes and bricks.
-https://github.com/user-attachments/assets/b58ef78f-b1ee-41a0-9f87-31df8bc243d1
+
+
+
+https://github.com/user-attachments/assets/9b8aa1d8-0036-4d17-b14e-e8f3e91fe73f
 
 
 
