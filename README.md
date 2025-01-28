@@ -1,7 +1,5 @@
 
-https://github.com/user-attachments/assets/d1d7b8d8-120c-4842-b8ec-acae217f412c
 
-https://github.com/user-attachments/assets/807075af-c691-4776-9a98-6d1b4a447a2b
 
 Pipline:
 
@@ -24,17 +22,11 @@ https://github.com/user-attachments/assets/f38ec6cd-0fe2-4358-bbb3-5bfe8162543c
 https://github.com/user-attachments/assets/40f10fd9-0aab-4676-adcc-bc1b45d46bff
 
 
-Dataset link：
+Dataset link： https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_connect_ust_hk/EqLZeILwp2pMgsB1QBEJG3ABbXxz2m2SgWvMcvFxOlluKw?e=gRzCwl
 
 
-
-
-https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_connect_ust_hk/EqLZeILwp2pMgsB1QBEJG3ABbXxz2m2SgWvMcvFxOlluKw?e=gRzCwl
 
 DEMO:
-
-
-
 1. The obscuration of the wooden board and Self-occlusio.
 https://github.com/user-attachments/assets/aff9a9f0-95bc-46fd-84d5-8d2ad994aa55
 
