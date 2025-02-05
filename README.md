@@ -2,9 +2,7 @@
 
 
 Pipline:
-
-
-![PIP1](https://github.com/user-attachments/assets/08c763ac-b66b-4c91-8cbb-dcc911e9ad3a)
+![图片1123](https://github.com/user-attachments/assets/cccccd10-5941-4ef1-bca1-19d9ebd670c8)
 
 
 
@@ -29,11 +27,7 @@ https://github.com/user-attachments/assets/806cd29c-18d5-4841-9b91-ea5cb4261957
 2. Self-occlusion and out-of-field-of-view.
 
 
-
-
-
 https://github.com/user-attachments/assets/3dc4773a-9fc4-44ff-97ce-a5f154a7fa1d
-
 
 
 
