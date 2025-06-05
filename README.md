@@ -12,9 +12,7 @@ Example of our dataset：
 https://github.com/user-attachments/assets/b661349d-4197-48b9-8435-166574fa8c32
 
 
-Dataset link： https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_connect_ust_hk/EqLZeILwp2pMgsB1QBEJG3ABbXxz2m2SgWvMcvFxOlluKw?e=gRzCwl
-
-
+Dataset link： https://hkustconnect-my.sharepoint.com/:f:/r/personal/xchengl_connect_ust_hk/Documents/multi%20modal/data/multi_sensor?csf=1&web=1&e=Ub7GGq
 
 DEMO:
 1. The obscuration of the wooden board and Self-occlusio.
